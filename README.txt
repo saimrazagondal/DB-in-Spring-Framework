@@ -1,6 +1,6 @@
 Name: Saim Raza Gondal
-Class: BSCS 6C
-Reg#: 173087
+
+
 
 Advanced Programming
 Lab 8 - Spring Framework
